@@ -1,6 +1,6 @@
 // arquivo BoletimEstudantil.java
 
-public class BoletimEstudantil {
+public class AnatomiaDasClasses4 {
 public static void main(String[] args) {
 int mediaFinal = 6;
 if(mediaFinal<6)	
